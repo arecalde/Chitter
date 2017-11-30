@@ -1,0 +1,2 @@
+This is a basic chatting application. It utilizes Jquery, PHP, and SQL. PHP & SQL are used to insert and select the messages from a database. 
+The Jquery is used for the constant updates. Other modules on the website use a similar mix to accomplish various tasks.
